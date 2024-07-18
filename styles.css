@@ -1,0 +1,32 @@
+body {
+    padding-top: 56px;
+}
+
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+}
+.container img{
+    margin-top: 5%;
+    align-self: center;
+    margin-left:30%;
+}
+.efr{
+    align-self: center;
+    margin-left:44%;
+}
+.nam{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+
+}
